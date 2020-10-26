@@ -15,12 +15,6 @@
 #    variability, Paleoceanography and Paleoclimatology, in review.
 #
 # -------------------------------------------------------------------------------------------------------------------------
-# The program consists of four phases:
-# 1) Set-up
-# 2) Initialization
-# 3) Calculation of time evolution (model core)
-# 4) Plot the main results
-# -------------------------------------------------------------------------------------------------------------------------
 # Written by: L.B. Stap at Alfred-Wegener-Institut, Helmholtz-Zentrum fuer Polar- und Meeresforschung, Bremerhaven, Germany
 # Email: lennert.stap<at>gmail.com
 # July 2019, last change: October 2020
